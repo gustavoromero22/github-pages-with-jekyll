@@ -1,15 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: GitHubRD
+author: gustavoromero22
+email: luisgustavoromero22@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My name is Luis Gustavo Romero, I'm from Dominican Republic and I'm adquiring
+  new knowledges for reach my goals as Engineer of IT. Future member of Northeastern University
+  as student of Cybersecurity.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+instagram_username: gustavoromero22 # DO NOT include the @ character, or else the build will fail!
+github_username:  gustavoromero22 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-time-machine
+theme: minima
